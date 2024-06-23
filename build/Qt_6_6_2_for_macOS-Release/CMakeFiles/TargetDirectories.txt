@@ -1,0 +1,9 @@
+/Users/aleksandr/CProjects/MyCalculator/build/Qt_6_6_2_for_macOS-Release/CMakeFiles/MyCalculator.dir
+/Users/aleksandr/CProjects/MyCalculator/build/Qt_6_6_2_for_macOS-Release/CMakeFiles/edit_cache.dir
+/Users/aleksandr/CProjects/MyCalculator/build/Qt_6_6_2_for_macOS-Release/CMakeFiles/rebuild_cache.dir
+/Users/aleksandr/CProjects/MyCalculator/build/Qt_6_6_2_for_macOS-Release/CMakeFiles/list_install_components.dir
+/Users/aleksandr/CProjects/MyCalculator/build/Qt_6_6_2_for_macOS-Release/CMakeFiles/install.dir
+/Users/aleksandr/CProjects/MyCalculator/build/Qt_6_6_2_for_macOS-Release/CMakeFiles/install/local.dir
+/Users/aleksandr/CProjects/MyCalculator/build/Qt_6_6_2_for_macOS-Release/CMakeFiles/install/strip.dir
+/Users/aleksandr/CProjects/MyCalculator/build/Qt_6_6_2_for_macOS-Release/CMakeFiles/MyCalculator_autogen_timestamp_deps.dir
+/Users/aleksandr/CProjects/MyCalculator/build/Qt_6_6_2_for_macOS-Release/CMakeFiles/MyCalculator_autogen.dir
